@@ -6,3 +6,7 @@
 - 🛠️ Stack: C# / ASP.NET Core · EF Core · SQL · REST APIs · background services · web scraping & automation (comfortable in Python and Node for small tools)
 - 💼 **Available for freelance work** — fixed-price or hourly, crypto-friendly
 - ⚡ I like small, well-defined problems solved properly: clean code, tests, and a README that lets you run it in one command
+
+---
+
+📫 Reach me via [LaborX](https://laborx.com) or GitHub issues on any of my repos.
